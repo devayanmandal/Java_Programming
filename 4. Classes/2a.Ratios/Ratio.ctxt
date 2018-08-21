@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=num\ den
+comment0.target=Ratio(int,\ int)
+comment1.params=num1
+comment1.target=void\ setNumerator(int)
+comment2.params=den1
+comment2.target=void\ setDenominator(int)
+comment3.params=
+comment3.target=int\ getNumerator()
+comment4.params=
+comment4.target=int\ getDenominator()
+comment5.params=
+comment5.target=double\ getDecimalValue()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=first\ second
+comment0.target=DoublePair(double,\ double)
+comment1.params=
+comment1.target=double\ getFirst()
+comment2.params=
+comment2.target=double\ getSecond()
+comment3.params=newFirst
+comment3.target=void\ setFirst(double)
+comment4.params=newSecond
+comment4.target=void\ setSecond(double)
+comment5.params=newFirst\ newSecond
+comment5.target=void\ setValues(double,\ double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
