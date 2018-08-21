@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=elts\ findElt
+comment0.target=int\ search(int[],\ int)
+comment0.text=\r\n\ \ \ \ Binary\ search\ on\ an\ array\ of\ int\r\n\r\n\ \ \ \ @param\ elts\ input\ array\r\n\ \ \ \ @param\ findElt\ int\ to\ find\ in\ the\ array\r\n\ \ \ \ @pre\ elts\ is\ sorted\ in\ ascending\ order\r\n\ \ \ \ @return\ index\ of\ findElt\ in\ elts,\ or\ -1\ if\ not\ found\r\n
+comment1.params=elts\ low\ high\ findElt
+comment1.target=int\ binsearch(int[],\ int,\ int,\ int)
+comment1.text=\r\n\ \ \ \ Helper\ method\ for\ binary\ search\ on\ array\ of\ int\r\n\r\n\ \ \ \ @param\ elts\ entire\ input\ array\r\n\ \ \ \ @param\ low\ lowest\ index\ where\ findElt\ may\ be\ found\r\n\ \ \ \ @param\ high\ highest\ index\ where\ findElt\ may\ be\ found\r\n\ \ \ \ @param\ findElt\ int\ to\ find\ in\ the\ array\r\n\ \ \ \ @return\ index\ of\ findElt\ in\ elts,\ or\ -1\ if\ not\ found\r\n
+comment2.params=elts\ findElt
+comment2.target=int\ search(java.lang.Comparable[],\ java.lang.Comparable)
+comment2.text=\r\n\ \ \ \ Binary\ search\ on\ an\ array\ of\ Comparable\ objects\r\n\r\n\ \ \ \ @param\ elts\ input\ array\r\n\ \ \ \ @param\ findElt\ Comparable\ to\ find\ in\ the\ array\r\n\ \ \ \ @pre\ all\ elts\ and\ findElt\ must\ implement\ Comparable\r\n\ \ \ \ @pre\ elts\ is\ sorted\ in\ ascending\ order\r\n\ \ \ \ @return\ index\ of\ findElt\ in\ elts,\ or\ -1\ if\ not\ found\r\n
+comment3.params=elts\ low\ high\ findElt
+comment3.target=int\ binsearch(java.lang.Comparable[],\ int,\ int,\ java.lang.Comparable)
+comment3.text=\r\n\ \ \ \ Helper\ method\ for\ binary\ search\ on\ array\ of\ Comparables\r\n\r\n\ \ \ \ @param\ elts\ entire\ input\ array\r\n\ \ \ \ @param\ low\ lowest\ index\ where\ findElt\ may\ be\ found\r\n\ \ \ \ @param\ high\ highest\ index\ where\ findElt\ may\ be\ found\r\n\ \ \ \ @param\ findElt\ Comparable\ to\ find\ in\ the\ array\r\n\ \ \ \ @return\ index\ of\ findElt\ in\ elts,\ or\ -1\ if\ not\ found\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ \ \ \ Demonstration\ of\ linear\ and\ binary\ searches\r\n
+numComments=5
