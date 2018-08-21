@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=base\ exponent
+comment1.target=java.math.BigInteger\ loopPower(java.math.BigInteger,\ long)
+comment2.params=base\ exponent
+comment2.target=java.math.BigInteger\ recPower(java.math.BigInteger,\ long)
+comment3.params=base\ exponent
+comment3.target=java.math.BigInteger\ fastRecPower(java.math.BigInteger,\ long)
+numComments=4
